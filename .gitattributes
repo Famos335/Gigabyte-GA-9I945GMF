@@ -1,0 +1,5 @@
+*.EXE binary
+*.exe binary
+*.f8 binary
+*.md text eol=lf
+*.txt text eol=lf
